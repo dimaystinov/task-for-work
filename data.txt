@@ -1,0 +1,1000 @@
+{'ticker': 'A', 'name': 'Agilent Technologies Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AA', 'name': 'Alcoa Corporation', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAA', 'name': 'AAF First Priority CLO Bond ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAAG', 'name': 'AAA Century Group USA Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAAIF', 'name': 'Alternative Investment Trust Units (Austrailia)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAALF', 'name': 'Aareal Bank AG AKT', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAALY', 'name': 'Aareal Bank AG Unsponsored American Depository Receipt (Germany)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAAP', 'name': 'Wool Industry Tria Alfa S.A..', 'locale': 'US', 'currency': 'EUR'}
+{'ticker': 'AAARF', 'name': 'Aluar Aluminio Argentino Sa Alua Ordinary Shares 1 Vote (Argentina)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAAU', 'name': 'Goldman Sachs Physical Gold ETF Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AABA', 'name': 'Altaba Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AABB', 'name': 'Asia Broadband Inc Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AABNF', 'name': 'Altin AG', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AABVF', 'name': 'Aberdeen International Inc Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAC', 'name': 'AAC Microtec AB', 'locale': 'US', 'currency': 'SEK'}
+{'ticker': 'AAC U', 'name': 'Ares Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-fifth of', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AACAF', 'name': 'AAC Technologies Holdings Inc Ordinary Shares (Cayman Islands)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AACAY', 'name': 'AAC Technologies Holdings Inc Unsponsored ADR (Cayman Islands)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AACEY', 'name': 'Asia Cement China Holdings Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AACG', 'name': 'ATA Creativity Global American Depositary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AACH', 'name': 'AAC HLDGS INC Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AACMF', 'name': 'Asia Cement', 'locale': 'US', 'currency': 'TWD'}
+{'ticker': 'AACQ', 'name': 'Artius Acquisition Inc. Class A Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AACQU', 'name': 'Artius Acquisition Inc. Unit', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AACQW', 'name': 'Artius Acquisition Inc Warrant', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AACS', 'name': 'American Commerce Solutions, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AACTF', 'name': 'AURORA SOLAR TECHNOLOGIES INC  Common Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AADR', 'name': 'AdvisorShares Dorsey Wright ADR ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAEEF', 'name': 'Altair Res Inc Common Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAFGF', 'name': 'Anglo African Oil & Gas Plc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAFRF', 'name': 'Airtel Africa Plc Ordinary Shares (United Kingdom)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAGC', 'name': 'All American Gold Corp. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAGEF', 'name': 'AAG ENERGY HLDGS LTD Ordinary Shares (Cayman Islands)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAGFF', 'name': 'Aftermath Silver Ltd Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAGGY', 'name': 'AIA ENGR LTD  American Depositary Receipts - Unsponsored', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAGH', 'name': 'America Great Health Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAGIY', 'name': 'AIA Group, Ltd. Sponsored American Depository Receipt (Hong Kong)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAGRY', 'name': 'Astra Agro Lestari TBK PT Unsponsored ADR (Indonesia)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAHIF', 'name': 'Asahi Co Ltd Osaka Ordinary Shares (Japan)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAIC', 'name': 'Arlington Asset Investment Corp.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAIC-B', 'name': 'Arlington Asset Investment Corp. 7.00% Series B Cumulative Perpetual Redeemable Preferred Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAIC-C', 'name': 'Arlington Asset Investment Corp. 8.250% Series C Fixed-to-Floating Rate Cumulative Redeemable Prefer', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAIGF', 'name': 'AIA Group, Ltd. Ordinary Shares (Hong Kong)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAIIQ', 'name': 'Alabama Aircraft Industries, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAINF', 'name': 'Asiabasemetals Inc Common Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAIR', 'name': 'Avantair Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAIRF', 'name': 'American Aires Inc. Common Shares  Canada(CA )', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAIT', 'name': 'Al Anwar Hldgs', 'locale': 'US', 'currency': 'OMR'}
+{'ticker': 'AAL', 'name': 'American Airlines Group Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AALBF', 'name': 'Aalberts Industries NV Ordinary Shares (Netherlands)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAMAF', 'name': 'Atlas Mara Co Nvest Ltd. Ordinary Shares (Virgin Islands British)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAMC', 'name': 'Altisource Asset Mgmt Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAME', 'name': 'Atlantic American Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAMMF', 'name': 'Almadex Minerals Ltd Ordinary Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAMTF', 'name': 'Armada Mercantile Ltd Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAN', 'name': "The Aaron's Company, Inc.", 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAN WI', 'name': "The Aaron''s Company, Inc.", 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AANC', 'name': 'Andover National Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AANNF', 'name': 'Aroundtown SA Ordinary Shares (Luxembourg)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AANOF', 'name': 'Asciano Limited', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AANR', 'name': 'ANR Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAOI', 'name': 'Applied Optoelectronics, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAOMF', 'name': 'Atlas Consolidated Mining & Development Corporation', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAON', 'name': 'AAON, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAP', 'name': 'ADVANCE AUTO PARTS INC', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAPCF', 'name': 'Atlantic Alliance Partnership Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAPH', 'name': 'American Petro Hunter Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAPJ', 'name': 'AAP, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAPL', 'name': 'Apple Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAPT', 'name': 'All American Pet Company, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AASCF', 'name': 'ALL ACTIVE ASSET CAP LTD Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AASL', 'name': "America's Suppliers, Inc. Common Stock", 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AASP', 'name': 'All-American SportPark, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAST', 'name': 'Allied American Steel Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AASZF', 'name': 'Atlantic Sapphire AS Common Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAT', 'name': 'AMERICAN ASSETS TRUST, INC.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AATAF', 'name': 'Arata Corporation', 'locale': 'US', 'currency': 'JPY'}
+{'ticker': 'AATDF', 'name': 'AA LTD Ordinary Shares (United Kingdom)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AATGF', 'name': 'ATI Airtest Technologies Inc Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AATP', 'name': 'Agape ATP Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AATRL', 'name': 'AMG Capital  Trust II 5.15% Convertible Trust Preferred Securities, Expiring 10/15/2037', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AATV', 'name': 'Adaptive Ad Systems, Inc. NEW Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAU', 'name': 'Almaden Minerals Ltd.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAUJF', 'name': 'AndeanGold Ltd', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAUKF', 'name': 'Anglo American plc Ordinary Shares (United Kingdom)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAUKY', 'name': 'Anglo American plc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAVMY', 'name': 'Abn Amro BK N V Amsterdam Brh American Depositary Receipts - Unsponsored (Netherlands)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAVVF', 'name': 'Advantage Oil & Gas Ltd Ordinary Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAVXF', 'name': 'Abivax SA Ordinary Shares (France)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAWC', 'name': 'Alexandria Advantage Warranty Company Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAWCD', 'name': 'CANNING STR CORP Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAWW', 'name': 'Atlas Air Worldwide Holdings NEW Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAXJ', 'name': 'iShares MSCI All Country Asia ex Japan ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAXN', 'name': 'Axon Enterprise, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAXT', 'name': 'Aamaxan Transport Group, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAYYY', 'name': 'Austrailian Agricultural Company Ltd Unsponsored ADR (Austrailia)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAZZF', 'name': 'A2Z Smart Technologies Corp Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AB', 'name': 'AllianceBernstein Holding, L.P.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABAC', 'name': 'Agroback AD', 'locale': 'US', 'currency': 'RSD'}
+{'ticker': 'ABAHF', 'name': 'Abacus Health Products Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'A', 'name': 'Agilent Technologies Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AA', 'name': 'Alcoa Corporation', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAA', 'name': 'AAF First Priority CLO Bond ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAAG', 'name': 'AAA Century Group USA Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAAIF', 'name': 'Alternative Investment Trust Units (Austrailia)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAALF', 'name': 'Aareal Bank AG AKT', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAALY', 'name': 'Aareal Bank AG Unsponsored American Depository Receipt (Germany)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAAP', 'name': 'Wool Industry Tria Alfa S.A..', 'locale': 'US', 'currency': 'EUR'}
+{'ticker': 'AAARF', 'name': 'Aluar Aluminio Argentino Sa Alua Ordinary Shares 1 Vote (Argentina)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAAU', 'name': 'Goldman Sachs Physical Gold ETF Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AABA', 'name': 'Altaba Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AABB', 'name': 'Asia Broadband Inc Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AABNF', 'name': 'Altin AG', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AABVF', 'name': 'Aberdeen International Inc Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAC', 'name': 'AAC Microtec AB', 'locale': 'US', 'currency': 'SEK'}
+{'ticker': 'AAC U', 'name': 'Ares Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-fifth of', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AACAF', 'name': 'AAC Technologies Holdings Inc Ordinary Shares (Cayman Islands)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AACAY', 'name': 'AAC Technologies Holdings Inc Unsponsored ADR (Cayman Islands)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AACEY', 'name': 'Asia Cement China Holdings Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AACG', 'name': 'ATA Creativity Global American Depositary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AACH', 'name': 'AAC HLDGS INC Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AACMF', 'name': 'Asia Cement', 'locale': 'US', 'currency': 'TWD'}
+{'ticker': 'AACQ', 'name': 'Artius Acquisition Inc. Class A Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AACQU', 'name': 'Artius Acquisition Inc. Unit', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AACQW', 'name': 'Artius Acquisition Inc Warrant', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AACS', 'name': 'American Commerce Solutions, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AACTF', 'name': 'AURORA SOLAR TECHNOLOGIES INC  Common Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AADR', 'name': 'AdvisorShares Dorsey Wright ADR ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAEEF', 'name': 'Altair Res Inc Common Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAFGF', 'name': 'Anglo African Oil & Gas Plc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAFRF', 'name': 'Airtel Africa Plc Ordinary Shares (United Kingdom)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAGC', 'name': 'All American Gold Corp. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAGEF', 'name': 'AAG ENERGY HLDGS LTD Ordinary Shares (Cayman Islands)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAGFF', 'name': 'Aftermath Silver Ltd Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAGGY', 'name': 'AIA ENGR LTD  American Depositary Receipts - Unsponsored', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAGH', 'name': 'America Great Health Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAGIY', 'name': 'AIA Group, Ltd. Sponsored American Depository Receipt (Hong Kong)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAGRY', 'name': 'Astra Agro Lestari TBK PT Unsponsored ADR (Indonesia)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAHIF', 'name': 'Asahi Co Ltd Osaka Ordinary Shares (Japan)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAIC', 'name': 'Arlington Asset Investment Corp.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAIC-B', 'name': 'Arlington Asset Investment Corp. 7.00% Series B Cumulative Perpetual Redeemable Preferred Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAIC-C', 'name': 'Arlington Asset Investment Corp. 8.250% Series C Fixed-to-Floating Rate Cumulative Redeemable Prefer', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAIGF', 'name': 'AIA Group, Ltd. Ordinary Shares (Hong Kong)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAIIQ', 'name': 'Alabama Aircraft Industries, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAINF', 'name': 'Asiabasemetals Inc Common Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAIR', 'name': 'Avantair Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAIRF', 'name': 'American Aires Inc. Common Shares  Canada(CA )', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAIT', 'name': 'Al Anwar Hldgs', 'locale': 'US', 'currency': 'OMR'}
+{'ticker': 'AAL', 'name': 'American Airlines Group Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AALBF', 'name': 'Aalberts Industries NV Ordinary Shares (Netherlands)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAMAF', 'name': 'Atlas Mara Co Nvest Ltd. Ordinary Shares (Virgin Islands British)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAMC', 'name': 'Altisource Asset Mgmt Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAME', 'name': 'Atlantic American Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAMMF', 'name': 'Almadex Minerals Ltd Ordinary Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAMTF', 'name': 'Armada Mercantile Ltd Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAN', 'name': "The Aaron's Company, Inc.", 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAN WI', 'name': "The Aaron''s Company, Inc.", 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AANC', 'name': 'Andover National Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AANNF', 'name': 'Aroundtown SA Ordinary Shares (Luxembourg)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AANOF', 'name': 'Asciano Limited', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AANR', 'name': 'ANR Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAOI', 'name': 'Applied Optoelectronics, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAOMF', 'name': 'Atlas Consolidated Mining & Development Corporation', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAON', 'name': 'AAON, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAP', 'name': 'ADVANCE AUTO PARTS INC', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAPCF', 'name': 'Atlantic Alliance Partnership Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAPH', 'name': 'American Petro Hunter Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAPJ', 'name': 'AAP, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAPL', 'name': 'Apple Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAPT', 'name': 'All American Pet Company, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AASCF', 'name': 'ALL ACTIVE ASSET CAP LTD Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AASL', 'name': "America's Suppliers, Inc. Common Stock", 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AASP', 'name': 'All-American SportPark, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAST', 'name': 'Allied American Steel Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AASZF', 'name': 'Atlantic Sapphire AS Common Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAT', 'name': 'AMERICAN ASSETS TRUST, INC.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AATAF', 'name': 'Arata Corporation', 'locale': 'US', 'currency': 'JPY'}
+{'ticker': 'AATDF', 'name': 'AA LTD Ordinary Shares (United Kingdom)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AATGF', 'name': 'ATI Airtest Technologies Inc Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AATP', 'name': 'Agape ATP Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AATRL', 'name': 'AMG Capital  Trust II 5.15% Convertible Trust Preferred Securities, Expiring 10/15/2037', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AATV', 'name': 'Adaptive Ad Systems, Inc. NEW Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAU', 'name': 'Almaden Minerals Ltd.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAUJF', 'name': 'AndeanGold Ltd', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAUKF', 'name': 'Anglo American plc Ordinary Shares (United Kingdom)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAUKY', 'name': 'Anglo American plc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAVMY', 'name': 'Abn Amro BK N V Amsterdam Brh American Depositary Receipts - Unsponsored (Netherlands)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAVVF', 'name': 'Advantage Oil & Gas Ltd Ordinary Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAVXF', 'name': 'Abivax SA Ordinary Shares (France)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAWC', 'name': 'Alexandria Advantage Warranty Company Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAWCD', 'name': 'CANNING STR CORP Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAWW', 'name': 'Atlas Air Worldwide Holdings NEW Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAXJ', 'name': 'iShares MSCI All Country Asia ex Japan ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAXN', 'name': 'Axon Enterprise, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAXT', 'name': 'Aamaxan Transport Group, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAYYY', 'name': 'Austrailian Agricultural Company Ltd Unsponsored ADR (Austrailia)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AAZZF', 'name': 'A2Z Smart Technologies Corp Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AB', 'name': 'AllianceBernstein Holding, L.P.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABAC', 'name': 'Agroback AD', 'locale': 'US', 'currency': 'RSD'}
+{'ticker': 'ABAHF', 'name': 'Abacus Health Products Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABAKF', 'name': 'ABERDEEN ASIA-PACIFIC INCOME Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABANF', 'name': 'Automatic Bank Services Ltd Ordinary Shares (Israel)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABASF', 'name': 'Aberdeen Asian Smaller Company Investment Trust', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABAT', 'name': 'Advanced Battery Technologies Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABAX', 'name': 'Abaxis Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABB', 'name': 'ABB Ltd.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABBAF', 'name': 'Aberdeen Asian Income Fund Ordinary Shares (Jersey)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABBB', 'name': 'Auburn Bancorp, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABBCL', 'name': 'Associated Banc-Corp.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABBRF', 'name': 'Abraplata Resource Corp Ordinary Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABBV', 'name': 'ABBVIE INC.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABBY', 'name': 'Abby, Inc  Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABC', 'name': 'AmerisourceBergen Corp.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABCAF', 'name': 'Athabasca Minerals Inc Common Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABCB', 'name': 'Ameris Bancorp Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABCD', 'name': 'Cambium Learning Group Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABCE', 'name': 'ABCO Energy, Inc Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABCED', 'name': 'ABCO Energy, Inc Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABCFF', 'name': 'Abacus Mining & Exploration Corporation Common Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABCL', 'name': 'AbCellera Biologics Inc. Common Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABCM', 'name': 'Abcam plc American Depositary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABCO', 'name': 'Arab Banking Corporation (Jordan)', 'locale': 'US', 'currency': 'JOD'}
+{'ticker': 'ABCP', 'name': 'AmBase Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABCR', 'name': 'ABC-NACO Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABCW', 'name': 'Anchor Bancorp Wisconsin Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABCXF', 'name': 'Asia Bio-Chem Group Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABCZF', 'name': 'Abcam PLC Ordinary Shares (United Kingdom)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABCZY', 'name': 'Abcam PLC Unsponsored ADR (United Kingdom)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABDBY', 'name': 'ALM BRAND A/S ADR (Denmark)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABDC', 'name': 'Alcentra Capital Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABDDF', 'name': 'Ab Dynamics PLC Ordinary Shares (United Kingdom)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABDNF', 'name': 'Aberdeen Asset Management', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABDNY', 'name': 'Aberdeen Asset Management', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABDR', 'name': 'Ambassador Food Services Corporation New Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABDTF', 'name': 'Aberdeen New Dawn Investment Trust plc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABE', 'name': 'AB S.A.', 'locale': 'US', 'currency': 'PLN'}
+{'ticker': 'ABEC', 'name': 'Analytica Bio-Energy Corp. Common Stock', 'locale': 'US', 'currency': 'CHF'}
+{'ticker': 'ABENU', 'name': 'Advanced Bioenergy LLC Membership Unit', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABEO', 'name': 'Abeona Therapeutics Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABEOF', 'name': 'Aberdeen Smaller Companies High Income Trust Plc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABEOW', 'name': 'Abeona Therapeutics Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABEPF', 'name': 'Vision Lithium Inc Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABEQ', 'name': 'Absolute Core Strategy ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABETF', 'name': 'Supernova Metals Corp Common Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABEV', 'name': 'AMBEV S.A.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABEYF', 'name': 'Abbey Plc Ordinary Shares (Ireland)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABFOF', 'name': 'Abertis Infraestructuras SA Ordinary Shares (Spain)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABFRF', 'name': 'Aberforth Smaller Companies Trust PLC Ordinary Shares (United Kingdom)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABFXF', 'name': 'ABF Pan Asia Bond Index Fund Units (Singapore)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABG', 'name': 'Asbury Automotive Group, Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABGB', 'name': 'Abengoa', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABGBY', 'name': 'Abengoa', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABGI', 'name': 'ABG Acquisition Corp. I Class A Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABGLF', 'name': 'ACACIA MNG PLC Common Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABGLY', 'name': 'Acacia Mining Plc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABGOF', 'name': 'Abengoa Sa Ordinary Shares (Spain)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABGOY', 'name': 'Abengoa Sa Unsponsored ADR (Spain)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABGSF', 'name': 'ABG Sundal Collier ASA Ordinary Shares (Norway)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABHBY', 'name': 'Alfen Beheer B.V. ADR (Netherlands)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABHD', 'name': 'Abtech Holdings Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABHI', 'name': 'AmbiCom Holdings Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABIL', 'name': 'Ability Inc', 'locale': 'US', 'currency': 'ILS'}
+{'ticker': 'ABILF', 'name': 'Ability Inc.  Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABILW', 'name': 'Ability Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABIO', 'name': 'ARCA biopharma, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABIWF', 'name': 'Ability Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABIZF', 'name': 'Abington Resources Ltd', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABKB', 'name': 'American Basketball Association, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABKH', 'name': 'American Bank Holdings, Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABKI', 'name': 'Abakan Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABLE', 'name': 'Able Energy, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABLGF', 'name': 'Alten Boulogne-Billancourt Ordinary Shares (France)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABLT', 'name': 'American Biltrite Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABLX', 'name': 'Ablynx', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABLYF', 'name': 'Ablynx', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABLZF', 'name': 'Abb Ltd Reg Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABM', 'name': 'ABM Industries, Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABMAF', 'name': 'Albioma Ordinary Shares (France)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABMBF', 'name': 'Abcourt Mines Inc Cl-B (F) Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABMC', 'name': 'American Bio Medica Corp. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABMD', 'name': 'ABIOMED, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABML', 'name': 'American Battery Metals Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABMMF', 'name': 'Prodigy Gold NL', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABMRF', 'name': 'ABN Amro BK NV Depositary Receipts (Netherlands)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABMT', 'name': 'Advanced BioMedical Technologies, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABNAF', 'name': 'Aben Resources, Ltd. Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABNB', 'name': 'Airbnb, Inc. Class A Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABNC', 'name': 'American Bancorp, Inc. (LA) Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABNK', 'name': 'AltaPacific Bancorp.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABNRY', 'name': 'ABN Amro Group N.V', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABOIF', 'name': 'Aboitiz Equity Ventures Inc Ordinary Shares (Philippines)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABPA', 'name': 'Allegiance Bank of North America (PA) Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABPGF', 'name': 'ALIBABA PICTURES GROUP Ltd SHS (Bermuda)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABPI', 'name': 'Accentia Biopharmaceuticals Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABPPF', 'name': 'Abacus Property Group Fully Paid Ord Units Stapled Securities (Australia)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABPR', 'name': 'Airborne Security & Protective Services, Inc. New Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABQQ', 'name': 'AB INTL GROUP CORP Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABQQD', 'name': 'AB International Group Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABR', 'name': 'Arbor Realty Trust, Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABR-A', 'name': 'Arbor Realty Trust, Inc 8.250% Series A Cumulative Redeemable Preferred Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABR-B', 'name': 'Arbor Realty Trust, Inc. 7.75% Series B Preferred', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABR-C', 'name': 'Arbor Realty Trust, Inc. 8.50% Series C Cumulative Redeemable Preferred Stock, Liquidation Preferenc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABRDF', 'name': 'Aberdeen New Thai Investment Trust', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABRN', 'name': 'Arbor Realty Trust Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABRTY', 'name': 'Abertis Infraestructuras, S.A.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABRUF', 'name': 'AMERICAN PAC BURATE & LITHIUM LTD Ord Shs Fully Paid (Australia)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABSCF', 'name': 'AB Science, Paris Ordinary Shares (France)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABSOF', 'name': 'ABS-CBN  Holdings Corporation Phillipine Depositary Receipts Representing 1 Share (Phillipines)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABSR', 'name': 'American Business Services Inc. Com', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABSSF', 'name': 'Airboss Of America Corp New Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABST', 'name': 'Absolute Software Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABT', 'name': 'Abbott Laboratories', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABTBF', 'name': 'AB-Biotics S.A.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABTI', 'name': 'Alterola Biotech, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABTO', 'name': 'AB&T Financial Corporation (NC) Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABTPF', 'name': 'Aubay Technology Levallors Perrett Ordinary Shares (France)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABTX', 'name': 'Allegiance Bancshares, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABTZY', 'name': 'Aboitiz Equity Ventures Inc. Unsponsored ADR (Phillipines)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABUS', 'name': 'Arbutus Biopharma Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABVC', 'name': 'American BriVision (Holding) Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABVG', 'name': 'Affinity Beverage Group, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABVN', 'name': 'ABV CONSULTING INC Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABWAF', 'name': 'Aditya Birla Minerals', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABWG', 'name': 'A B Watley Group Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABWN', 'name': 'Airborne Wireless Network Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABXXF', 'name': 'ABAXX Technologies Inc. Common Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABYB', 'name': 'Amboy Bancorporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABZPF', 'name': 'Aboitiz Power Corp. Ordinary Shares (Phillippines)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABZPY', 'name': 'Aboitiz Power Corp. Unsponsored ADR (Phillipines)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABZT', 'name': 'Ablaze Technologies, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ABZUF', 'name': 'Abzu Gold, Ltd. Ordinary Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AC', 'name': 'Associated Capital Group, Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACA', 'name': 'Arcosa, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACAC', 'name': 'Acies Acquisition Corp. Class A Ordinary Share', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACACU', 'name': 'Acies Acquisition Corp. Unit', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACACW', 'name': 'Acies Acquisition Corp. Warrant', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACAD', 'name': 'ACADIA Pharmaceuticals Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACAI', 'name': 'Safeplus International Holdings Limited Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACAL', 'name': 'America California Bank (CA)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACAM', 'name': 'Acamar Partners Acquisition Corp. Class A Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACAMU', 'name': 'Acamar Partners Acquisition Corp. Units', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACAMW', 'name': 'Acamar Partners Acquisition Corp. Warrant', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACAN', 'name': 'Americann, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACARQ', 'name': 'Activecare Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACAS', 'name': 'American Capital Ltd', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACAT', 'name': 'Arctic Cat Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACAVF', 'name': 'ACE Aviation Holdings Inc Common Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACAXP', 'name': 'Annaly Capital Management Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACAZF', 'name': 'Acadian Timber Corporation Ordinary Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACB', 'name': 'Aurora Cannabis Inc. Common Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACBCQ', 'name': 'Albina Community Bancorp (OR) Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACBD', 'name': 'Annabidiol Corp. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACBI', 'name': 'Atlantic Capital Bancshares, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACBM', 'name': 'Acro Biomedical Co., Ltd. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACC', 'name': 'American Campus Communities, Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACCA', 'name': 'Acacia Diversified Holdings, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACCCF', 'name': 'Accton Technology Corp.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACCD', 'name': 'Accolade, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACCDF', 'name': 'Acencia Debt Strategies', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACCE', 'name': 'Accres Holding Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACCFF', 'name': 'Accord Financial Corp Ordinary Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACCKF', 'name': 'Amica Mature Lifestyles Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACCLL', 'name': 'AL-Corn Clean Fuel LLC Unit Limited Partnership Class A', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACCMF', 'name': 'AAC CLYDE SPACE Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACCO', 'name': 'Acco Brands Corporation', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACCR', 'name': 'Access-Power & Co, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACCS', 'name': 'African Copper Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACCU', 'name': 'AdvisorShares Accuvest Global Opportunities ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACCYY', 'name': 'Accor S A American Depositary Receipts - Sponsored (France)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACDSF', 'name': 'Ascendas Real Estate Investment Trust Units', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACDU', 'name': 'Accredited Business Consolidators Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACDVF', 'name': 'Air Canada Inc Vtg & Var Vtg Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACEEU', 'name': 'Ace Ethanol LLC Unit', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACEHF', 'name': 'Ace Hardware Indonesia Tbk Ordinary Shares (Indonesia)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACEJF', 'name': 'ACEA S.P.A. SHS (Italy)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACEL', 'name': 'Accel Entertainment, Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACEL.WS', 'name': 'Accel Entertainment, Inc. Warrant, to purchase one Class A-1 Common Stock at an exercise price of $1', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACENY', 'name': 'ASCENTIAL PLC American Depositary Receipts - Unsponsored', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACER', 'name': 'Acer Therapeutics Inc. Common Stock (DE)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACERF', 'name': 'AM Gold Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACERW', 'name': 'Acer Therapeutics Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACES', 'name': 'ALPS Clean Energy ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACET', 'name': 'Adicet Bio, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACETQ', 'name': 'Aceto Corp.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACEV', 'name': 'ACE Convergence Acquisition Corp. Class A Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACEVU', 'name': 'ACE Convergence Acquisition Corp. Unit', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACEVW', 'name': 'ACE Convergence Acquisition Corp. Warrant', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACEXF', 'name': 'SEVEN ACES LTD  Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACEYY', 'name': 'Acer, Inc. (New) Sponsored Global Depository Receipt Reg S (Taiwan)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACEZ', 'name': 'Ariel Clean Energy, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACEZD', 'name': 'Qiansui International Group Co. Ltd. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACFC', 'name': 'Atlantic Coast Financial Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACFFF', 'name': 'Accordia Golf Tr Unit (Singapore)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACFL', 'name': 'AMC Financial Holdings, Inc. Common Stock', 'locale': 'US', 'currency': 'BDT'}
+{'ticker': 'ACFN', 'name': 'Acorn Energy, Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACG', 'name': 'Autocorp Holding Public Company Limited', 'locale': 'US', 'currency': 'THB'}
+{'ticker': 'ACGBF', 'name': 'Agricultural Bank of China Ordinary Shares  SHS H  (China)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACGBY', 'name': 'Agricultural Bank of China Unsponsored American Depository Receipt (China)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACGFF', 'name': 'Accordia Golf Co.Ltd', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACGFY', 'name': 'Accordia Golf Co.Ltd', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACGI', 'name': 'Amacore Group, Inc. (The) Class A Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACGJ', 'name': 'ACI Global Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACGL', 'name': 'Arch Capital Group Ltd. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACGLO', 'name': 'Arch Capital Group Ltd. Depositary Shares Each Representing 1/1,000th Interest in a Share of 5.45% Non-Cumulative Preferred Shares, Series F', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACGLP', 'name': 'Arch Capital Group Ltd. Depositary Shares Representing Interest in 5.25% Non-Cumulative Preferred Series E Shrs', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACGPF', 'name': 'Accell Group NV Heerenveen Ordinary Shares (Netherlands)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACGX', 'name': 'Alliance Creative Group, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACGXD', 'name': 'Alliance Creative Group Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACGYF', 'name': 'Subsea 7 SA Ordinary Shares (Luxembourg)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACH', 'name': 'Alum Corp of China Limited', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACHC', 'name': 'Acadia Healthcare Company, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACHFF', 'name': 'ARch Biopartners Inc. Ordinary Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACHKF', 'name': 'ACHIKO AG NAMEN AKT Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACHN', 'name': 'Achillion Pharmaceuticals', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACHV', 'name': 'Achieve Life Sciences, Inc. Common Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACI', 'name': 'Albertsons Companies, Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACIA', 'name': 'Acacia Communications, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACIC', 'name': 'Atlas Crest Investment Corp.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACIC U', 'name': 'Atlas Crest Investment Corp. Units, each consisting of one Class A common stock, and one-third of on', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACIC.WS', 'name': 'Atlas Crest Investment Corp.Redeemable warrants included as part of the units, each whole warrant ex', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACII U', 'name': 'Atlas Crest Investment Corp. II Units, each consisting of one Class A common stock, $.0001 par value', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACIIQ', 'name': 'Arch Coal Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACIM', 'name': 'SSgA SPDR MSCI ACWI UCITS ETF', 'locale': 'US', 'currency': 'CHF'}
+{'ticker': 'ACIO', 'name': 'Aptus Collared Income Opportunity ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACITF', 'name': 'Asian Citrus Holdings Ltd Ordinary Shares (Bermuda)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACIU', 'name': 'AC Immune SA Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACIW', 'name': 'ACI Worldwide, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACJJF', 'name': 'Acom Co Ltd', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACJJY', 'name': 'Acom Co Ltd  Unsponsored ADR (Japan)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACKAF', 'name': 'Arcelik A.S.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACKAY', 'name': 'Arcelik A S Unsponsored ADR (Turkey)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACKBF', 'name': 'ACL International Ltd.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACKDF', 'name': 'Auckland International Airport Ltd Ordinary Shares (New Zealand)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACKIT', 'name': 'Ackrell SPAC Partners I Co. Subunits', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACKIU', 'name': 'Ackrell SPAC Partners I Co. Units', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACKIW', 'name': 'Ackrell SPAC Partners I Co. Warrants', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACKRF', 'name': 'American Creek Resources Ltd Common  Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACLD', 'name': 'Acquire Ltd Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACLH', 'name': 'Act Clean Technologies Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACLL', 'name': 'ACell, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACLLF', 'name': 'Atco Ltd  Cl I Nv Cda Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACLP', 'name': 'Accel Brands Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACLS', 'name': 'Axcelis Technologies, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACLTF', 'name': 'Atco Ltd Cl Ii Vtg Cda Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACLZ', 'name': 'Accelerize Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACM', 'name': 'Aecom', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACMB', 'name': 'Agro Capital Management Corp Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACMBD', 'name': 'Agro Capital Management Corp Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACMC', 'name': 'American Church Mortgage Co Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACMDY', 'name': 'Atlas Consolidated Mining & Development Corp American Depositary Share (Unsponsored) (Phillippines)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACME', 'name': 'Acme Communications Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACMHY', 'name': 'Ascom Holding AG', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACMLF', 'name': 'Ascom Holdings A G Bearer Shs Ordinary Shares (Switzerland)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACMM', 'name': 'Accom Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACMMY', 'name': 'ACOM CO LTD ADR (Japan)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACMR', 'name': 'ACM Research, Inc. Class A Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACMT', 'name': 'ACMAT Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACMTA', 'name': 'ACMAT Corporation Class A Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACMUY', 'name': 'Acom Co Ltd', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACN', 'name': 'Accenture PLC', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACNB', 'name': 'ACNB Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACND', 'name': 'Ascendant Digital Acquisition Corp.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACND U', 'name': 'Ascendant Digital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-hal', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACND.WS', 'name': 'Ascendant Digital Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinar', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACNDF', 'name': 'Ascendas India Trust Units (Singapore)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACNE', 'name': 'Alice Cons Mines Inc Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACNFF', 'name': 'Amsterdam Commodities NV Ordinary Shares (Netherlands)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACNI', 'name': 'American Community Newspapers Inc Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACNNF', 'name': 'Auscann Group Hldgs Ltd Ordinary Shares (Australia)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACNOF', 'name': 'Aerocrine AB', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACNV', 'name': 'Accelera Innovations, Inc Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACNXF', 'name': 'Aconex Limited', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACOPF', 'name': 'A2 Milk Co Ltd. Shs (New Zealand)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACOPY', 'name': 'The A2 Milk Co Ltd Unsponsored ADR (New Zealand)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACOR', 'name': 'Acorda Therapeutics, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACOSF', 'name': 'Archos ACT.NOM', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACP', 'name': 'Aberdeen Income Credit Strategies Fund', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACP RT', 'name': 'Aberdeen Income Credit Strategies Fund Rights (expiring November 13, 2019)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACP RTWI', 'name': 'Aberdeen Income Credit Strategies Fund Rights (expiring November 13, 2019)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACPGF', 'name': 'ACACIA PHARMA GROUP PLC ORD GBP0.02 (United Kingdom)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACPIF', 'name': 'AC ENERGY CORP Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACPOQ', 'name': 'Anthracite Capital Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACPPQ', 'name': 'Anthracite Capital Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACPQF', 'name': 'Added Cap Inc Ordinary Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACPRF', 'name': 'ARCPACIFIC RES CORP Common Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACPS', 'name': 'AC Partners Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACPZF', 'name': 'Alicorp S.A.', 'locale': 'US', 'currency': 'PEN'}
+{'ticker': 'ACR', 'name': 'ACRES Commercial Realty Corp.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACR-C', 'name': 'ACRES Commercial Realty Corp. 8.625% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stoc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACRB', 'name': 'Asia Carbon Industries, Inc. Common', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACRDF', 'name': 'Acreage Holdings, Inc. Class D Sub Vtg Ord Shs (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACRE', 'name': 'Ares Commercial Real Estate Corporation', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACRFF', 'name': 'Accor S A (F) Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACRFY', 'name': 'Accor', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACRGF', 'name': 'Acreage Holdings Inc Common Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACRHF', 'name': 'Acreage Holdings, Inc. Class E Sub Vtg Ord Shs (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACRL', 'name': 'Atacama Resources International, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACRS', 'name': 'Aclaris Therapeutics, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACRT', 'name': 'Actrade Financial Technologies Ltd', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACRVF', 'name': 'Agellan Commercial Real Estate Investment Trust', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACRX', 'name': 'AcelRx Pharmaceuticals, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACSAF', 'name': 'Acs Actividades de Construccion y Servicios SA Ordinary Shares (Spain)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACSAY', 'name': 'ACS Actividades De Construccion Y Servicios SA Unsponsored ADR (Spain)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACSBL', 'name': 'Access Bk Nigeria Plc Sponsored GDR Reg S (Nigeria)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACSEF', 'name': 'ACS Motion Control Ltd. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACSF', 'name': 'American Capital Senior Floating Ltd', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACSG', 'name': 'Xtrackers MSCI ACWI ex USA ESG Leaders Equity ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACSI', 'name': 'American Customer Satisfaction ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACSOF', 'name': 'Arcs Co. Ltd.', 'locale': 'US', 'currency': 'JPY'}
+{'ticker': 'ACSSF', 'name': 'APOLLO HEALTHCARE CORP Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACST', 'name': 'Acasti Pharma, Inc. Class A Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACSX', 'name': 'A.C.Simmonds and Sons Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACSYF', 'name': 'Accsys Technologies plc Ordinary Shares (United Kingdom)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACT', 'name': 'AdvisorShares Trust AdvisorShares Vice ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACTA', 'name': 'Actua Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACTC', 'name': 'ArcLight Clean Transition Corp. Class A Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACTCU', 'name': 'ArcLight Clean Transition Corp. Unit', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACTCW', 'name': 'ArcLight Clean Transition Corp. Warrant', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACTFF', 'name': 'Asian Citrus Hldgs', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACTG', 'name': 'Acacia Research Corporation (Acacia Tech) Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACTL', 'name': 'Artec Global Media, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACTPF', 'name': 'Ascent Resources plc London Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACTRF', 'name': 'Ascott Residence Trust', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACTS', 'name': 'Actions Semiconductor Co Ltd', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACTT', 'name': 'Act II Global Acquisition Corp. Class A Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACTTU', 'name': 'Act II Global Acquisition Corp. Unit', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACTTW', 'name': 'Act II Global Acquisition Corp. Warrant', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACTV', 'name': 'LeaderShares Activist Leaders ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACTX', 'name': 'Advanced Container Technologies, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACTZF', 'name': 'Accton Technology Corp.', 'locale': 'US', 'currency': 'TWD'}
+{'ticker': 'ACU', 'name': 'Acme United Corporation', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACUCF', 'name': 'ACUCORT AB Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACUIF', 'name': 'AcuityAds Hldgs Inc Ordinary Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACUR', 'name': 'ACURA PHARMACEUTICALS INC Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACUS', 'name': 'Acusphere, Inc. (NEW) Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACV', 'name': 'Virtus AllianzGI Diversified Income & Convertible Fund', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACVF', 'name': 'American Conservative Values ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACW', 'name': 'Accuride Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACWEF', 'name': 'SSGA SPDR ETFS EUROPE I PLC ACCUM SHS EXCHANGE TRADED FUND USD (Ireland)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACWF', 'name': 'iShares MSCI Global Multifactor ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACWI', 'name': 'iShares MSCI ACWI ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACWRF', 'name': 'Acceleware Ltd.  Common Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACWV', 'name': 'iShares MSCI Global Min Vol Factor ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACWX', 'name': 'iShares MSCI ACWI ex US ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACXA', 'name': 'Accurexa Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACXIF', 'name': 'Acciona Sa Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ACY', 'name': 'AeroCentury Corporation', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADAC', 'name': 'Adama Technologies Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADAD', 'name': 'Adaiah Distribution, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADADD', 'name': 'Adaiah Distribution, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADAG', 'name': 'Adagene Inc. American Depositary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADAP', 'name': 'Adaptimmune Therapeutics plc American Depositary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADAPL', 'name': 'Adelphia Recovery Trust CVV SER OLYMPUS INT', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADBCF', 'name': 'ADBRI Limited Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADBE', 'name': 'Adobe Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADBGF', 'name': 'ADORE BEAUTY GROUP LTD Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADBKF', 'name': 'ADDIKO BK AG Common Shares  Austria(AT )', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADBN', 'name': 'Americana Distribution, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADBRF', 'name': 'ALDEBARAN RES INC Ordinary Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADC', 'name': 'Agree Realty Corporation', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADCC', 'name': 'Savenergy Holdings Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADCOF', 'name': 'Adcore Inc Common Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADCT', 'name': 'ADC Therapeutics SA', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADCUF', 'name': 'ADS CRUDE CARRIERS PLC Ordinary Shares  Cyprus(CY )', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADCV', 'name': 'AD Capital U.S. Inc. New Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADDC', 'name': 'Addmaster Corp Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADDDF', 'name': 'adidas AG Ordinary Shares (Germany)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADDHY', 'name': 'Addtech AB American Depositary Receipts - Unsponsored (Sweden)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADDLF', 'name': 'ADDLIFE AB-B Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADDLP', 'name': 'ANR Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADDLY', 'name': 'ADDLIFE AB Unsponsored ADR (Sweden)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADDNF', 'name': 'AddNode AB', 'locale': 'US', 'currency': 'SEK'}
+{'ticker': 'ADDXF', 'name': 'Addex Pharmaceuticals Ltd. Ordinary Shares (Switzerland)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADDYY', 'name': 'adidas AG Sponsored ADR (Germany)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADEC', 'name': 'Alternative Energy Development Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADEP', 'name': 'Adept Technology Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADERU', 'name': '26 Capital Acquisition Corp. Unit', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADERY', 'name': 'Aida Engineering Ltd ADR', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADES', 'name': 'Advanced Emissions Solutions, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADEVF', 'name': 'ADEVINTA ASA Ordinary Shares (Norway)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADEX U', 'name': 'Adit EdTech Acquisition Corp Units, each consisting of one share of common stock, and one-half of on', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADEXF', 'name': 'Advanced Explorations Inc Common shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADFI', 'name': 'Anfield Dynamic Fixed Income ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADFJF', 'name': 'ADF Group Inc Sub Vtg Shs (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADFMF', 'name': 'Advance Frontier Markets Fund Ltd', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADFS', 'name': 'American Defense Systems, Inc Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADFT', 'name': 'Adfitech, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADGCF', 'name': 'ADVANCE GOLD CORP Common Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADGE', 'name': 'American DG Energy Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADGHF', 'name': 'AData Technology Co. Ltd', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADGL', 'name': 'AllDigital Holdings, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADGO', 'name': 'Advantego Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADGPF', 'name': 'Allied Group Limited Ordinary Shares (Hong Kong)', 'locale': 'US', 'currency': 'HKD'}
+{'ticker': 'ADGRF', 'name': 'Albert Technologies Ltd.  Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADGS', 'name': 'ADGS Advisory, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADHC', 'name': 'American Diversified Holdings Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADHG', 'name': 'Ando Holdings Ltd. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADHLF', 'name': 'Applied Development Holdings Limited Ordinary Shares (Bermuda)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADHLY', 'name': 'Applied Development Holdings Ltd.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADHMY', 'name': 'Advanced Digital Health Medicina Preventiva SA Sponsored ADR (Brazil)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADI', 'name': 'Analog Devices, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADIA', 'name': 'Adia Nutrition, Inc. Common Stock', 'locale': 'US', 'currency': 'EUR'}
+{'ticker': 'ADIL', 'name': 'Adial Pharmaceuticals, Inc Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADILW', 'name': 'Adial Pharmaceuticals, Inc Warrant', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADIMF', 'name': 'ASAHI DIAMOND INDUSTRIAL CO LTD Ordinary Shares Japan (JP)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADIWW', 'name': 'Adial Pharmaceuticals Inc Wt Pur Com Exp 02/28/2024', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADK', 'name': 'Diagnos Inc.', 'locale': 'US', 'currency': 'CAD'}
+{'ticker': 'ADKCF', 'name': 'Adeka Corp Ordinary Shares (Japan)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADKIL', 'name': 'Adkins Energy LLC Unit Membership Int', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADKT', 'name': 'Adirondack Tr Co Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADLDY', 'name': 'ADBRI Limited American Depositary Receipts - Unsponsored', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADLI', 'name': 'American Medical Technologies Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADLS', 'name': 'Advanced Life Sciences Holdings Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADM', 'name': 'Archer Daniels Midland Company', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADMA', 'name': 'ADMA Biologics Inc Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADMD', 'name': 'Advanced Medical Isotope Corporation', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADME', 'name': 'Aptus Behavioral Momentum ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADMG', 'name': 'Adamant DRI Processing and Minerals Group Common Stock', 'locale': 'US', 'currency': 'IDR'}
+{'ticker': 'ADMLF', 'name': 'Adriatic Metals PLC CHESS Depositary Interests 1:1', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADMP', 'name': 'Adamis Pharmaceuticals Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADMQ', 'name': 'ADM Endeavors Inc Common Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADMS', 'name': 'Adamas Pharmaceuticals, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADMT', 'name': 'ADM Tronics Unlimited, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADMV', 'name': 'ADAMAS VENTURES INC Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADN', 'name': 'Advent Technologies Holdings, Inc. Class A Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADNC', 'name': 'Audience Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADNOF', 'name': 'ARIADNE AUSTRALIA LIMITED Ordinary Shares (Australia)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADNT', 'name': 'Adient plc Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADNWW', 'name': 'Advent Technologies Holdings, Inc. Warrant', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADNY', 'name': 'Adino Energy Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADOB', 'name': 'Adorbs Inc Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADOC', 'name': 'Edoc Acquisition Corp. Class A Ordinary Share', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADOCF', 'name': 'Adocia', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADOCR', 'name': 'Edoc Acquisition Corp. Right', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADOCU', 'name': 'Edoc Acquisition Corp. Unit', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADOCW', 'name': 'Edoc Acquisition Corp. Warrant', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADOCY', 'name': 'Adocia Sponsored ADR', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADOIF', 'name': 'Adocia Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADOM', 'name': 'ADOMANI, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADONF', 'name': 'ANTEOTECH LTD SHS (Australia)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADOOY', 'name': 'Adaro Energy PT Unsponsored ADR (Indonesia)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADP', 'name': 'Automatic Data Processing, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADPAA', 'name': 'ADELPHIA RECOVERY TR CVV SER ACC-2 INT', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADPAB', 'name': 'Adelphia Recovery Trust CVV SER ACC-3 INT', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADPAJ', 'name': 'Adelphia Recovery Trust Series Arahova Int', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADPAK', 'name': 'Adelphia Recovery Tust Series Frontiervsion Int', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADPAL', 'name': 'ADPAL', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADPAN', 'name': 'ADPAN', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADPAO', 'name': 'Adelphia Recovery Trust', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADPAR', 'name': 'ADPAR', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADPAS', 'name': 'Adelphia Recovery Trust  Series ACC-1 Int', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADPBK', 'name': 'Adelphia Recovery Trust CVV SER FPL INT', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADPMF', 'name': 'Ad Pepper Media Intl Nv', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADPPF', 'name': 'ADO PPTYS S A Ordinary Shares (Luxembourg)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADPT', 'name': 'Adaptive Biotechnologies Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADPTQ', 'name': 'Adeptus Health Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADPXF', 'name': 'Audio Pixels Holdings Ltd Ordinary Shares (Australia)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADPXY', 'name': 'Audio Pixels Holdings Ltd Sponsored ADR (Australia)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADRA', 'name': 'Invesco BLDRS Asia 50 ADR Index Fund', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADRA U', 'name': 'Adara Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-half of', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADRD', 'name': 'Invesco BLDRS Developed Markets 100 ADR Index Fund', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADRE', 'name': 'Invesco BLDRS Emerging Markets 50 ADR Index Fund', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADRGF', 'name': 'Mene Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADRNF', 'name': 'Aderans Company Limited', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADRNY', 'name': 'Koninklijke Ahold Delhaize N.V. American Depositary Receipts - Sponsored', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADRO', 'name': 'Aduro Biotech, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADRU', 'name': 'Invesco BLDRS Europe Select ADR Index Fund', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADRXF', 'name': 'Fennec Pharmaceuticals Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADRZF', 'name': 'Andritz Ag Graz Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADRZY', 'name': 'Andritz Ag Graz Unsponsored ADR (Austria)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADS', 'name': 'Alliance Data Systems Corporation', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADSGF', 'name': 'ADESSO AG AFTER CAP REDUCTION Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADSK', 'name': 'Autodesk, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADST', 'name': 'AdStar, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADSV', 'name': 'Allied Security Innovations, Inc. NEW Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADSW', 'name': 'Advanced Disposal Services, Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADT', 'name': 'ADT Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADTC', 'name': 'Advanced Deposition Technologies, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADTEF', 'name': 'Advantech Co Ltd Ordinary Shares (Taiwan)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADTFD', 'name': 'Imetal Res Inc Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADTFF', 'name': 'Imetal Res Inc Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADTM', 'name': 'Adaptive Medias, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADTN', 'name': 'ADTRAN, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADTR', 'name': 'Alliance Media Holdings Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADTTF', 'name': 'Advantest Corp Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADTX', 'name': 'ADiTx Therapeutics, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADTY', 'name': 'Adtegrity.Com International Inc Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADUS', 'name': 'Addus HomeCare Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADV', 'name': 'Advantage Solutions Inc. Class A Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADVA', 'name': 'Advatech Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADVC', 'name': 'Advant-e Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADVM', 'name': 'Adverum Biotechnologies, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADVNF', 'name': 'ADVANCED NANO TECHNOLOGIES LTD Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADVOF', 'name': 'Adva Optical Networking SE Ordinary Shares (Germany)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADVS', 'name': 'Advent Software Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADVT', 'name': 'Advantis Corporation Common Stock', 'locale': 'US', 'currency': 'SEK'}
+{'ticker': 'ADVV', 'name': 'Adveco Group Inc Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADVWW', 'name': 'Advantage Solutions Inc. Warrant', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADVYF', 'name': 'ADVERTY AB SHARE AK (Sweden)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADVZF', 'name': 'Adventus Mng Corp Common Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADWPF', 'name': 'Andrew Peller Ltd Class A Ordinary Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADX', 'name': 'Adams Diversified Equity Fund, Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADXDF', 'name': 'Adex Mining Corp Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADXM', 'name': 'Adex Media Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADXN', 'name': 'Addex Therapeutics Ltd American Depositary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADXRF', 'name': 'ADX Energy Ltd Ordinary Shares (Australia)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADXS', 'name': 'Advaxis, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADXSW', 'name': 'Advaxis, Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADYEY', 'name': 'Adyen N.V. Unsponsored ADR (Netherlands)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADYNF', 'name': 'CanaQuest Medical Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADYX', 'name': 'Adynxx, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADYYF', 'name': 'Adyen N.V. Ordinary Shares (Netherlands)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADZ', 'name': 'Adolfo Dominguez', 'locale': 'US', 'currency': 'EUR'}
+{'ticker': 'ADZCF', 'name': 'DB AGRIC SHORT EXCHANGE TRADED NT due 04/01/2038', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'ADZZF', 'name': 'Advance Residence Investment Corporation New, Tokyo Ordinary Shares (Japan)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AE', 'name': 'Adams Resources & Energy Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEACU', 'name': 'Authentic Equity Acquisition Corp. Unit', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEB', 'name': 'AEGON N.V. 5.29964% Floating Rate Perpetual Capital Securities', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEBLF', 'name': 'American Biofuels Inc. Common Shares  (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEBZY', 'name': 'Anadolu Efes Biracilik Ve Malt Sanayi AS Sponsored ADR Reg S (Turkey)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEC', 'name': 'Africa Energy Corp', 'locale': 'US', 'currency': 'SEK'}
+{'ticker': 'AECFF', 'name': 'Action Energy Inc Ordinary Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AECLF', 'name': 'AECI Ltd', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AECLY', 'name': 'Ae & Ci Ltd Ord American Depositary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AECS', 'name': 'Aec Holdings Corporation', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AED', 'name': 'Aedes SIIQ S.p.A', 'locale': 'US', 'currency': 'EUR'}
+{'ticker': 'AED.CL', 'name': 'Aegon N.V. 6.50% Perpetual Capital Securities Called Redemption', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEDC', 'name': 'American Energy Development Corp. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEDFF', 'name': 'Aedifica Sicafi, Bruxelles Ordinary Shares (Belgium)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEE', 'name': 'Ameren Corporation', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEEI', 'name': 'American Environmental Energy, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEEX', 'name': 'Asia Equity Exchange Group, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEF', 'name': 'Aberdeen Emerging Markets Equity Income Fund, Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEFC', 'name': 'Aegon Funding Company LLC 5.10% Subordinated Notes due 2049', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEG', 'name': 'AEGON N.V.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEGG', 'name': 'American Energy Group, Ltd. New Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEGMF', 'name': 'Alliance Resources Ltd', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEGN', 'name': 'Aegion Corp Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEGOF', 'name': 'Aegon NV Ordinary Shares (Netherlands)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEGR', 'name': 'Aegerion Pharmaceuticals Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEGXF', 'name': 'AECON GROUP INC Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEGY', 'name': 'Alternative Energy Partners Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEH', 'name': 'Aegon N. V.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEH.CL', 'name': 'Aegon N.V. 6.375% Perpetual Capital Securities Called for Redemption', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEHI', 'name': 'Alternate Energy Holdings Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEHL', 'name': 'Antelope Enterprise Holdings Limited Common Stock (0.024 par)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEHR', 'name': 'Aehr Test Systems Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEI', 'name': 'Alset EHome International Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEICF', 'name': 'Aeria Inc Tokyo Ordinary Shares (Japan)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEIHL', 'name': 'American Equity Investment Life Holding Co', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEIIF', 'name': 'Alelion Energy Systems AB', 'locale': 'US', 'currency': 'SEK'}
+{'ticker': 'AEIS', 'name': 'Advanced Energy Industries, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEK', 'name': 'Aegon N. V.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEL', 'name': 'American Equity Investment Life Holding Company', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEL-A', 'name': 'American Equity Investment Life Holding Company Depositary Shares, each representing a 1/1,000th int', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEL-B', 'name': 'American Equity Investment Life Holding Company Depositary Shares, each representing a 1/1, 000th in', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AELEF', 'name': 'Alpine Electronics Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AELGF', 'name': 'Aer Lingus Group Plc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AELIY', 'name': 'Anadolu Hayat Emeklilik AS Unsponsored ADR (Turkey)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AELTF', 'name': 'Adacel Technologies Ltd Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEM', 'name': 'Agnico Eagle Mines Ltd.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEMAF', 'name': 'Alchemia', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEMC', 'name': 'Archer Entertainment Media Communications Incorporated New Common Stock', 'locale': 'US', 'currency': 'GBX'}
+{'ticker': 'AEMD', 'name': 'Aethlon Medical, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEMMF', 'name': 'A2A SpA Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEMMY', 'name': 'A2A SpA Unsponsored ADR (Italy)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AENG', 'name': 'Advanced Engine Technologies, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AENZ', 'name': 'Aenza S.A.A.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEO', 'name': 'American Eagle Outfitters', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEOEF', 'name': 'Alelion Energy Systems AB', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEOIF', 'name': 'Aeon Thana Sinsap (Thailand) Public Company Limited', 'locale': 'US', 'currency': 'THB'}
+{'ticker': 'AEOJF', 'name': 'Aeon Financial Services Co Ltd (Jpn) Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEOMF', 'name': 'Aeon Metals Ltd Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEORF', 'name': 'Aleo Solar AG', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEOXF', 'name': 'Aeroports de Paris Adp Ordinary Shares (France)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEP', 'name': 'American Electric Power Company, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEP-B', 'name': 'American Electric Power Company, Inc. Corporate Unit', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEP-C', 'name': 'American Electric Power Company, Inc. Corporate Units', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEPCU', 'name': 'American Electric Power Company Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEPI', 'name': 'AEP Industries Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEPLF', 'name': 'Anglo Eastern Plantations PLC Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEPOU', 'name': 'AMERICAN ELEC PWR CO INC Unit   08/15/2025', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEPPL', 'name': 'American Electric Power Company, Inc. Corporate Unit', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEPPZ', 'name': 'American Electric Power Company, Inc. Corporate Units', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEPT', 'name': 'American Energy Partners, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AER', 'name': 'Aercap Holdings N.V.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AERG', 'name': 'Applied Energetics, Inc Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AERGP', 'name': 'Applied Energetics, Inc. Series A Convertible Preferred Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AERI', 'name': 'Aerie Pharmaceuticals, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AERN', 'name': 'AER Energy Resources, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AERO', 'name': 'AeroGrow International, Inc. Common Stock', 'locale': 'US', 'currency': 'RSD'}
+{'ticker': 'AERS', 'name': 'Aerius Common Stock', 'locale': 'US', 'currency': 'GBX'}
+{'ticker': 'AERT', 'name': 'Advanced Environmental Recycling Technologies Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AERZY', 'name': 'PJSC Aeroflot Russian Airlines American Depositary Receipts - Sponsored', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AES', 'name': 'AES Corporation', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AESAY', 'name': 'AES Tiete S.A', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AESE', 'name': 'Allied Esports Entertainment, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AESEW', 'name': 'Allied Esports Entertainment, Inc. Warrant Exp 08/09/2024', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AESO', 'name': 'Atlantic Energy Solutions Inc Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AESR', 'name': 'Anfield U.S. Equity Sector Rotation ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AESTY', 'name': 'AES Tiete Energia SA American Depositary Shares - Sponsored (Brazil)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AESYY', 'name': 'AES Tiete S.A', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AET', 'name': 'Aetna Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AETI', 'name': 'Stabilis Energy Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AETLF', 'name': 'Aeris Environmental Ltd Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AETR', 'name': 'Alliance Enterprise Corp.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AETUF', 'name': 'Arc Resources Ltd. Ordinary Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEUA', 'name': 'Anadarko Petroleum Corp.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEVEF', 'name': 'Arena Events Group PLC Ordinary Shares (United Kingdom)', 'locale': 'US', 'currency': 'GBP'}
+{'ticker': 'AEVIF', 'name': 'Aevis Victoria SA ACT NOM (Switzerland)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEWRF', 'name': 'AEW UK REIT PLC REIT ORD GBP0.01 (United Kingdom)', 'locale': 'US', 'currency': 'GBP'}
+{'ticker': 'AEXAF', 'name': 'Atos Origin SA Ordinary Shares (France)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEXAY', 'name': 'Atos Origin SA Unsponsored ADR (France)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEXE', 'name': 'Aim Exploration Inc Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEXFF', 'name': 'Aminex Plc Ord Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEXL', 'name': 'AXELEREX CORP Common Stock   (United States)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEY', 'name': 'ADDvantage Technologies Group, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEYE', 'name': 'AudioEye, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEYIF', 'name': 'Arsenal Energy Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEYYF', 'name': 'Alpha Energy Holdings Ltd Ordinary Shares (Singapore)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AEZS', 'name': 'Aeterna Zentaris Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AF', 'name': 'Air France-KLM', 'locale': 'US', 'currency': 'EUR'}
+{'ticker': 'AFA', 'name': 'ASF Group Ltd', 'locale': 'US', 'currency': 'AUD'}
+{'ticker': 'AFAM', 'name': 'Almost Family Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFAN', 'name': 'AF Ocean Investment Management Co', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFAP', 'name': 'AFA Protective Systems Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFB', 'name': 'Alliance National Municipal Income Fund, Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFBA', 'name': 'Allied First Bancorp, Inc. (Maryland) Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFBG', 'name': 'American Fiber Green Products, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFBI', 'name': 'Affinity Bancshares, Inc. Common Stock (MD)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFBOF', 'name': 'African Rainbow Minerals Limited Ordinary Shares (South Africa)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFC', 'name': 'Allied Capital Corporation', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFCB', 'name': 'Athens Bancshares Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFCG', 'name': 'AFC Gamma, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFCJF', 'name': 'AFC Ajax NV Amsterdam Ordinary Shares (Netherlands)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFCL', 'name': 'Amcor Financial Corp Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFCO', 'name': 'American Farmland Co', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFCRF', 'name': 'Africo Resources Ltd', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFCSF', 'name': 'Vast Res Plc Ordinary Shares (United Kingdom)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFDG', 'name': 'African Discovery Group, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFDVF', 'name': 'AFI Development PLC SHS SERIES B (Cyprus)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFFG', 'name': 'AFF Holding Group Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFFHW', 'name': 'AFFINION GROUP HLDGS INC Warrant', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFFL', 'name': 'Affiliated Resources Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFFMQ', 'name': 'Affirmative Insurance Hldgs Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFFN', 'name': 'Affinity Networks, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFFS', 'name': 'AmTrust Financial Services, Inc. 7.25% Subordinated Notes Due 2055', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFFT', 'name': 'AmTrust Financial Services, Inc. 7.50% Subordinated Notes Due 2055', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFFU', 'name': 'Affluence Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFFWW', 'name': 'Affinion Group Holdings Inc Warrant Exp 04/01/2024', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFFX', 'name': 'Affymetrix Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFFY', 'name': 'Affymax, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFG', 'name': 'American Financial Group, Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFGB', 'name': 'American Financial Group, Inc. 5.875% Subordinated Debentures due 2059', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFGC', 'name': 'American Financial Group, Inc. 5.125% Subordinated Debentures due 2059', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFGD', 'name': 'American Financial Group, Inc. 5.625% Subordinated Debentures due 2060', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFGE', 'name': 'American Financial Group, Inc. 4.500% Subordinated Debentures due 2060', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFGE.CL', 'name': 'American Financial Group, Inc  6 ?% Subordinated Debentures due 2054 Called for Redemption', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFGH', 'name': 'American Financial Group, Inc. 6.000% Subordinated Debentures due 2055', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFGR', 'name': 'Affinion Group Holdings Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFGVF', 'name': 'AGFA-GEVAERT N.V. BRUESSEL Ordinary Shares Belgium(BE )', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFGVY', 'name': 'Agfa Gevaert NV Unsponsored ADR (Belgium)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFGYF', 'name': 'AFC Energy Plc Ordinary Shares (United Kingdom)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFH', 'name': 'Atlas Financial Holdings, Inc. Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFHBL', 'name': 'ATLAS FINL HLDGS INC Other  6.625 04/26/2022', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFHFF', 'name': 'AFH Financial Group PLC Bromsgrove Ordinary Shares (United Kingdom)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFHIF', 'name': 'ATLAS FINL HLDGS INC Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFI', 'name': 'Armstrong Flooring, Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFIB', 'name': 'Acutus Medical, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFIDY', 'name': 'AFI Development', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFIF', 'name': 'Anfield Universal Fixed Income ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFIMF', 'name': 'Africa Israel Inv Ord Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFIN', 'name': 'American Finance Trust, Inc. Class A Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFINO', 'name': 'American Finance Trust, Inc. 7.375% Series C Cumulative Redeemable Preferred Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFINP', 'name': 'American Finance Trust, Inc. 7.50% Series A Cumulative Redeemable Perpetual Preferred Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFIPA', 'name': 'Amfi Corp Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFIVY', 'name': 'Africa-Israel Investments Ltd.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFK', 'name': 'VanEck Vectors Africa Index ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFL', 'name': 'Aflac Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFLG', 'name': 'First Trust Active Factor Large Cap ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFLQF', 'name': 'Alfa Financial Software Holdings Ltd Ordinary Shares (United Kingdom)', 'locale': 'US', 'currency': 'GBP'}
+{'ticker': 'AFLYY', 'name': 'Air France ADS ADS', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFMC', 'name': 'First Trust Active Factor Mid Cap ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFMCF', 'name': 'African Metals Corporation Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFMD', 'name': 'Affimed N.V.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFMJF', 'name': 'ALPHAMIN RESOURCES CORP. Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFML', 'name': 'Aerofoam Metals Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFNL', 'name': 'Amfin Financial Corp. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFNNF', 'name': 'Affine R.E.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFOM', 'name': 'All For One Media Corp. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFOP', 'name': 'Alliance Fiber Optic Products Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFOVF', 'name': 'Australian Foundation Investment Co Ordinary Shares (Australia)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFPW', 'name': 'Alumifuel Power Corp. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFQMF', 'name': 'African Queen Mines Ltd', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFRAF', 'name': 'Air France KLM Ordinary Shares (France)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFRBY', 'name': 'African Rainbow Minerals Ltd.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFRM', 'name': 'Affirm Holdings, Inc. Class A Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFRMF', 'name': 'Alphaform Ag Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFRNF', 'name': 'Afren', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFRNY', 'name': 'Afren', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFRS', 'name': 'American First Financial Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFRVF', 'name': 'African Bank Investments, Ltd. Ordinary Shares (South Africa)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFRVY', 'name': 'African Bank Investments Ltd', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFSD', 'name': 'Aflac Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFSE', 'name': 'All Energy Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFSI', 'name': 'AmTrust Financial Services Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFSI-A', 'name': 'AmTrust Financial Services Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFSI-B', 'name': 'AmTrust Financial Services Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFSI-C', 'name': 'AmTrust Financial Services Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFSI-D', 'name': 'AmTrust Financial Services Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFSI-E', 'name': 'AmTrust Financial Services Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFSI-F', 'name': 'AmTrust Financial Services Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFSIA', 'name': 'Amtrust Financial Services, Inc. 6.75% Non-Cumulative Preferred Stock, Series A', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFSIB', 'name': 'AmTrust Financial Services, Inc. Depositary Shares, each Representing 1/40th of a Share of 7.25% Non Cumulative Preferred Stock, Series B', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFSIC', 'name': 'Amtrust Financial Services, Inc. Depositary Shares , Each Representing 1/40 th Interest in a Share of 7.625% Non-Cumulative Preferred Stock, Series C', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFSIM', 'name': 'AmTrust Financial Services, Inc. Depositary Shares, each Representing 1/40th of a Share of 7.75% Non-Cumulative Preferred Stock, Series E', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFSIN', 'name': 'AmTrust Financial Services, Inc. Depositary Shares, Each Representing 1/40 th Interest in a Share of 6.95% Non-Cumulative Preferred Stock, Series F', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFSIP', 'name': 'AmTrust Financial Services, Inc. Depositary Shares , Each Representing 1/40 th Interest in a Share of 7.50% Non-Cumulative Preferred Stock, Series D', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFSLF', 'name': 'Amiad Water Systems Limted', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFSM', 'name': 'First Trust Active Factor Small Cap ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFSS', 'name': 'AmTrust Financial Services Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFST', 'name': 'AmTrust Financial Services Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFT', 'name': 'Apollo Senior Floating Rate Fund Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFTC', 'name': 'Alternative Fuel Technologies Inc Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFTLF', 'name': 'Afrimat Limited, Johannesburg Ordinary Shares (South Africa)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFTM', 'name': 'AfterMaster, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFTPF', 'name': 'Afterpay Ltd Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFTPY', 'name': 'AFTERPAY LTD ADR (Australia)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFTTF', 'name': 'Afritin Mng Ltd Ordinary Shares (Guernsey)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFTY', 'name': 'Pacer CSOP FTSE China A50 ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFW', 'name': 'Align Technology, Inc.', 'locale': 'US', 'currency': 'EUR'}
+{'ticker': 'AFXXF', 'name': 'AF AB', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFYA', 'name': 'Afya Limited Class A Common Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AFYG', 'name': 'Affinity Gold Corp. Common Stocks', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AG', 'name': 'FIRST MAJESTIC SILVER CORP', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGAAF', 'name': 'AltaGas Canada Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGATF', 'name': 'Deutsche Bank Agriculture Double Short ETN due 4/1/2038', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGAUF', 'name': 'Arizona Gold Corp. Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGBA', 'name': 'AGBA Acquisition Limited Ordinary Share', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGBAR', 'name': 'AGBA Acquisition Limited Right', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGBAU', 'name': 'AGBA Acquisition Limited Unit', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGBAW', 'name': 'AGBA Acquisition Limited Warrant', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGBCF', 'name': 'Algae Biosciences Corp.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGC', 'name': 'Altimeter Growth Corp. Class A Ordinary Shares', 'locale': 'US', 'currency': 'CAD'}
+{'ticker': 'AGCB', 'name': 'Altimeter Growth Corp. 2', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGCBF', 'name': 'Amarillo Gold Corporation Ordinary Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGCCF', 'name': 'Gensource Potash Corp. Ordinary Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGCO', 'name': 'AGCO Corporation', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGCR', 'name': 'Agiss Corp', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGCUU', 'name': 'Altimeter Growth Corp. Unit', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGCWW', 'name': 'Altimeter Growth Corp. Warrant', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGCZ', 'name': 'Andes Gold Corp. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGD', 'name': 'Aberdeen Global Dynamic Dividend Fund', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGDXF', 'name': 'Antioquia Gold Inc Ordinary Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGDY', 'name': 'Agri-Dynamics Inc Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGE', 'name': 'AgeX Therapeutics, Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGEEF', 'name': 'HALO COLLECTIVE INC Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGEN', 'name': 'Agenus Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGESF', 'name': 'Ageas NV Ordinary Shares (Belgium)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGESY', 'name': 'Ageas Sponsored ADR (Belgium)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGF', 'name': 'AGF (Ass Generales de France)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGFAF', 'name': 'Agraflora Organics Intl Inc Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGFDF', 'name': 'Aga Rangemaster Group Plc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGFMF', 'name': 'A G F Mgmt Ltd Cl B Non Vtg Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGFS', 'name': 'AgroFresh Solutions, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGFSW', 'name': 'AgroFresh Solutions, Inc. Warrants', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGFXF', 'name': 'DB Agriculture Long ETN due April 1, 2038 (Germany)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGFY', 'name': 'Agrify Corporation Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGG', 'name': 'iShares Core U.S. Aggregate Bond ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGGE', 'name': 'IQ Enhanced Core Bond U.S. ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGGFF', 'name': 'African Gold Group Inc Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGGG', 'name': 'Antilia Group Corp Common Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGGHF', 'name': 'Agrios Global Holdings Ltd Common Shares  Canada (CA)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGGI', 'name': 'Allied Energy, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGGKY', 'name': 'Aggreko plc American Depositary Receipts - Unsponsored', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGGL', 'name': 'AgTech Global International, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGGNY', 'name': 'Aegean Airls SA American Depositary Receipts - Unsponsored (Greece)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGGP', 'name': 'IQ Enhanced Core Plus Bond U.S. ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGGX', 'name': 'AngioGenex, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGGY', 'name': 'WisdomTree Yield Enhanced U.S. Aggregate Bond Fund', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGGZF', 'name': 'AG Growth International Inc. Common Shares (Canada)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGHC', 'name': 'Aeon Global Health Corp. Common Stock', 'locale': 'US', 'currency': 'KWF'}
+{'ticker': 'AGHEF', 'name': 'Agility Health Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGHI', 'name': 'Agora Holdings Inc Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGI', 'name': 'Alamos Gold Inc. Class A Common Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGIIL', 'name': 'Argo Group US Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGIN', 'name': 'American Graphite Technologies Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGINE', 'name': 'American Graphite Technologies Inc', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGIO', 'name': 'Agios Pharmaceuticals, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGIWW', 'name': 'Alamos Gold Inc.', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGLAF', 'name': 'Aguila Amern Gold Ltd Common Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGLDF', 'name': 'Austral Gold Ltd Ordinary shares (Australia)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGLE', 'name': 'Aeglea BioTherapeutics, Inc. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGLNF', 'name': 'AGL Energy Ltd Ordinary Shares', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGLNY', 'name': 'AGL Energy Ltd', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGLS', 'name': 'AdvisorShares Accuvest Global Long Short ETF', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGLT', 'name': 'Angel Telecom Corporation. Common Stock', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGLXY', 'name': 'AGL Energy Ltd American Depositary Receipts - Sponsored (Australia)', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGLY', 'name': 'AGILITI INC Common Stock  Delaware', 'locale': 'US', 'currency': 'USD'}
+{'ticker': 'AGM', 'name': 'Federal Agricultural Mortgage Corporation', 'locale': 'US', 'currency': 'USD'}
